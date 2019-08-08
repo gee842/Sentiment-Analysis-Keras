@@ -1,10 +1,10 @@
 # Sentiment-Analysis-Keras
 Sentiment Analysis using DNN, CNN, and an LSTM Network, for the IMDB Reviews Dataset
 
-#Dataset:
+## Dataset:
 https://ai.stanford.edu/~amaas/data/sentiment/
 
-#Dataset Reference:
+## Dataset Reference:
 ```
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
   author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
